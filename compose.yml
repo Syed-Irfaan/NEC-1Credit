@@ -1,8 +1,8 @@
 version: '3'
 services:
-  balaji:
+  syed_irfaan:
     image: "syed_irfaan/22it013-personal-api-docker"
-    container_name: balajiv_container
+    container_name: syed_irfaan_container
     restart: always
     ports:
       - "5007:5000"
