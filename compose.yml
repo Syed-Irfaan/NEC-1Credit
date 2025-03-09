@@ -1,7 +1,7 @@
 version: '3'
 services:
   syed_irfaan:
-    image: "syed_irfaan/22it013-personal-api-docker"
+    image: "syedirfaan05/22it013-personal-api-docker"
     container_name: syed_irfaan_container
     restart: always
     ports:
